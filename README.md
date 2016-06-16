@@ -12,7 +12,7 @@ Installation
 Download from Github
 
 ```
-git clone https://github.com/cristijora93/vue-spa-starter
+git clone https://github.com/cristijora/vue-spa-starter
 ```
 
 #### Build Setup
